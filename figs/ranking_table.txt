@@ -1,0 +1,84 @@
+\begin{tabular}{rlllll}
+\toprule 
+ & \multicolumn{2}{c}{Global ranking} & \multicolumn{3}{c}{Local ranking} \\
+    & Train       & Val        & Absolute   & Relative   & Relative$_{10}$   \\
+\midrule
+  1. & 's          & 's         & man        & head       & dogs         \\
+  2. & curled      & locomotive & dog        & bunk       & ball         \\
+  3. & locomotive  & curled     & tennis     & smoke      & couch        \\
+  4. & bucket      & faucet     & people     & pool       & bananas      \\
+  5. & asleep      & amongst    & woman      & police     & water        \\
+  6. & gathering   & dusk       & umbrella   & piano      & holding      \\
+  7. & ahead       & really     & dogs       & mirrors    & car          \\
+  8. & located     & pigeons    & cat        & looking    & umbrella     \\
+  9. & n't         & adorable   & cake       & doll       & chair        \\
+ 10. & unmade      & sleeps     & frisbee    & cage       & phone        \\
+ 11. & muddy       & sushi      & bear       & wrapped    & wine         \\
+ 12. & accessories & bidet      & elephant   & watermelon & elephants    \\
+ 13. & series      & tiger      & horse      & view       & sink         \\
+ 14. & iron        & gathering  & elephants  & tunnel     & boy          \\
+ 15. & aerial      & odd        & table      & toys       & bowl         \\
+ 16. & sleeps      & bunny      & bananas    & towels     & skateboard   \\
+ 17. & horns       & ahead      & kitchen    & towel      & sitting      \\
+ 18. & amongst     & nap        & truck      & toothbrush & zebra        \\
+ 19. & chewing     & mom        & bus        & toilets    & truck        \\
+ 20. & dimly       & muddy      & plate      & tiger      & frisbee      \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{ll}
+\toprule 
+\multicolumn{2}{c}{Global ranking}\\
+ Train       & Val        \\
+\midrule
+ 's          & 's         \\
+ curled      & locomotive \\
+ locomotive  & curled     \\
+ bucket      & faucet     \\
+ asleep      & amongst    \\
+ gathering   & dusk       \\
+ ahead       & really     \\
+ located     & pigeons    \\
+ n't         & adorable   \\
+ unmade      & sleeps     \\
+ muddy       & sushi      \\
+ accessories & bidet      \\
+ series      & tiger      \\
+ iron        & gathering  \\
+ aerial      & odd        \\
+ sleeps      & bunny      \\
+ horns       & ahead      \\
+ amongst     & nap        \\
+ chewing     & mom        \\
+ dimly       & muddy      \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{lll}
+\toprule 
+\multicolumn{3}{c}{Local ranking}\\
+ Absolute   & Relative   & Relative$_{10}$   \\
+\midrule
+ man        & head       & dogs         \\
+ dog        & bunk       & ball         \\
+ tennis     & smoke      & couch        \\
+ people     & pool       & bananas      \\
+ woman      & police     & water        \\
+ umbrella   & piano      & holding      \\
+ dogs       & mirrors    & car          \\
+ cat        & looking    & umbrella     \\
+ cake       & doll       & chair        \\
+ frisbee    & cage       & phone        \\
+ bear       & wrapped    & wine         \\
+ elephant   & watermelon & elephants    \\
+ horse      & view       & sink         \\
+ elephants  & tunnel     & boy          \\
+ table      & toys       & bowl         \\
+ bananas    & towels     & skateboard   \\
+ kitchen    & towel      & sitting      \\
+ truck      & toothbrush & zebra        \\
+ bus        & toilets    & truck        \\
+ plate      & tiger      & frisbee      \\
+\bottomrule
+\end{tabular}
+
